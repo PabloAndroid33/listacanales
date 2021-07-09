@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador",Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador",TC HD
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Canela TV  | EC
+https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102" tvg-name="Hechos TV" tvg-logo="https://www.m3u.cl/logo/102_Hechos_TV.png", Hechos TV  | EC
+http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104" tvg-name="Max TV" tvg-logo="https://www.m3u.cl/logo/104_Max_TV.png", Max TV  | EC
+https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="106" tvg-name="RecTV" tvg-logo="https://www.m3u.cl/logo/106_RecTV.jpg", RecTV  | EC
+https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="108" tvg-name="RTU TV" tvg-logo="https://www.m3u.cl/logo/108_RTU_TV.png", RTU TV  | EC
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110" tvg-name="TV Puruwa" tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png", TV Puruwa  | EC
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV  | IR
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV  | CL
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV  | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2  | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="485" tvg-name="AC Vision" tvg-logo="https://www.m3u.cl/logo/485_AC_Vision.png", AC Vision  | EC
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3  | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="176" tvg-name="Asomavision" tvg-logo="https://www.m3u.cl/logo/176_Asomavision.png", Asomavision  | EC
+https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="95" tvg-name="America Estereo" tvg-logo="https://www.m3u.cl/logo/95_America_Estereo.jpg", America Estereo  | EC
+https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/playlist.m3u8?PlaylistM3UCL
