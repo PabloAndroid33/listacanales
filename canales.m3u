@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador",Teleamazonas
+#EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Amazonas30  | EC
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador",TC HD
+#EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", TC Television  | EC
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Canela TV  | EC
