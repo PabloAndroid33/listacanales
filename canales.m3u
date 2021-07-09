@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Amazona | EC
+#EXTINF:-1 tvg-id="1" tvg-name="Amazona" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Amazona | EC
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="2" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", TC | EC
+#EXTINF:-1 tvg-id="2" tvg-name="TC" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", TC | EC
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Canela TV  | EC
