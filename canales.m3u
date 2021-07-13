@@ -5,28 +5,28 @@
 #EXTINF:-1 tvg-id="29" tvg-name="AMAZ" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", AMAZ | EC
 https://vps-c97214f4.vps.ovh.net/hls/tv4.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="21" group="deportes"  tvg-name="FOXSPORT" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", FOXSPORT | EC
+#EXTINF:-1 tvg-id="21" group-title="deportes"  tvg-name="FOXSPORT" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", FOXSPORT | EC
 https://655tukzzkj.azcdn728.net:8443/hls/yodsbtspkxcb04i.m3u8?s=06kxWwO099zn_yIKGolqXg&e=1626229687
 
-#EXTINF:-1 tvg-id="22" group="deportes" tvg-name="DIRECTV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", DIRECTV | EC
+#EXTINF:-1 tvg-id="22" group-title="deportes" tvg-name="DIRECTV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", DIRECTV | EC
 https://655tukzzkj.azcdn728.net:8443/hls/utp9qmmg.m3u8?s=GrZ_Sst1KJbmEB2bB5iJ3w&e=1626229968
 
 
-#EXTINF:-1 tvg-id="23" group="deportes" tvg-name="DIRECTV2" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", DIRECTV2 | EC
+#EXTINF:-1 tvg-id="23" group-title="deportes" tvg-name="DIRECTV2" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", DIRECTV2 | EC
 https://655tukzzkj.azcdn728.net:8443/hls/dr9m7m26e2e.m3u8?s=R8GB7aZrlyDG1LqKiZ6fVQ&e=1626230028
 
 
 
-#EXTINF:-1 tvg-id="24" group="deportes" tvg-name="GOLTV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", GOLTV | EC
+#EXTINF:-1 tvg-id="24" group-title="deportes" tvg-name="GOLTV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", GOLTV | EC
 https://655tukzzkj.azcdn728.net:8443/hls/jtzfksihm2f.m3u8?s=I_w6ZB5YvIXys2U4UeFeAg&e=1626230133
 
 #EXTINF:-1 tvg-id="25" tvg-name="ESTRELLAS" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", ESTRELLAS | MX
 https://655tukzzkj.azcdn728.net:8443/hls/luebrx1v31.m3u8?s=gntMUf_taKo1dC-nnGcCww&e=1626230430
 
-#EXTINF:-1 tvg-id="12" group="deportes" tvg-name="ESPN" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", ESPN | EC
+#EXTINF:-1 tvg-id="12" group-title="deportes" tvg-name="ESPN" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", ESPN | EC
 https://655tukzzkj.azcdn728.net:8443/hls/uezpfjf.m3u8?s=OXVcK9A7uE-e8rE0bz2CGA&e=1626221232
 
-#EXTINF:-1 tvg-id="12" group="deportes" tvg-name="ESPN2" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", ESPN2 | EC
+#EXTINF:-1 tvg-id="12" group-title="deportes" tvg-name="ESPN2" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", ESPN2 | EC
 https://655tukzzkj.azcdn728.net:8443/hls/og9w80yjcw67wox.m3u8?s=O5v9qP3sphCbNS0RDbIHKA&e=1626221399
 
 #EXTINF:-1 tvg-id="16" tvg-name="CN" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", CN | EC
