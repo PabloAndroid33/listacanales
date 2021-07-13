@@ -1,7 +1,24 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="33" group-title="Pelicula" tvg-name="HBO" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", HBO | EC
+https://655tukzzkj.azcdn728.net:8443/hls/gz6etjawnxu.m3u8?s=1v6m1jr8-HmVY061tGamog&e=1626238392
 
+
+#EXTINF:-1 tvg-id="34" group-title="Pelicula" tvg-name="HBO2" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", HBO2 | EC
+https://655tukzzkj.azcdn728.net:8443/hls/7k8po6ket.m3u8?s=MTxBciNMoP-ucOGbgrHs3g&e=1626238599
+
+#EXTINF:-1 tvg-id="35" group-title="Pelicula" tvg-name="Cinemax" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Cinemax | EC
+https://655tukzzkj.azcdn728.net:8443/hls/p94egqya1e.m3u8?s=KR0JQq4cQV9KHWB0vmjDYw&e=1626238666
+
+#EXTINF:-1 tvg-id="36" group-title="Pelicula" tvg-name="TNT" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", TNT | EC
+https://655tukzzkj.azcdn728.net:8443/hls/lqo9fv.m3u8?s=_s3h_5taMrvifJsL2jt5gA&e=1626238864
+
+#EXTINF:-1 tvg-id="37" group-title="Pelicula" tvg-name="GOLDEN" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", GOLDEN | EC
+https://655tukzzkj.azcdn728.net:8443/hls/xfi9lblmxn47o.m3u8?s=ObwQymMb7zcDhEiQKcquqw&e=1626238960
+
+#EXTINF:-1 tvg-id="38" group-title="Pelicula" tvg-name="TNTSeries" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", TNTSeries | EC
+https://655tukzzkj.azcdn728.net:8443/hls/1gm313e68bu.m3u8?s=qe73P5dX-9Ynd88xgNOdyw&e=1626239045
 
 #EXTINF:-1 tvg-id="31" group-title="Ecuador" tvg-name="Ecuaviza" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Ecuaviza | EC
 https://vps-c97214f4.vps.ovh.net/hls/tv3.m3u8?PlaylistM3UCL
