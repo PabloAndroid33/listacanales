@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="12" tvg-name="24HORAS tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", 24HORAS  | EC
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="12" tvg-name="AZTECA TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png",  Azteca TV  | EC
+https://655tukzzkj.azcdn728.net:8443/hls/xh4icbh7keec3.m3u8?s=QhRyfuQFzLYswR1Bjyp4Mw&e=1626219656
 
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Canela TV  | EC
 https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
