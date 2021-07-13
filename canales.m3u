@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="28" tvg-name="TELEAMAZONAS" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", TELEAMAZONAS | EC
+https://vps-c97214f4.vps.ovh.net/hls/tv4.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="21" tvg-name="FOXSPORT" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", FOXSPORT | EC
 https://655tukzzkj.azcdn728.net:8443/hls/yodsbtspkxcb04i.m3u8?s=06kxWwO099zn_yIKGolqXg&e=1626229687
 
