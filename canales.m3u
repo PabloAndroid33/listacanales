@@ -3,11 +3,11 @@
 
 
 
-#EXTINF:-1 tvg-id="31" group-name="Ecuador" tvg-name="Ecuaviza" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Ecuaviza | EC
+#EXTINF:-1 tvg-id="31" group-title="Ecuador" tvg-name="Ecuaviza" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Ecuaviza | EC
 https://vps-c97214f4.vps.ovh.net/hls/tv3.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="32" group-name="Ecuador" tvg-name="RTS" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", RTS | EC
+#EXTINF:-1 tvg-id="32" group-title="Ecuador" tvg-name="RTS" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", RTS | EC
 https://vps-c97214f4.vps.ovh.net/hls/tv2.m3u8?PlaylistM3UCL
 
 #EXTM3U
