@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="12" tvg-name="ESPN" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", ESPN | EC
+https://655tukzzkj.azcdn728.net:8443/hls/uezpfjf.m3u8?s=OXVcK9A7uE-e8rE0bz2CGA&e=1626221232
+
+#EXTINF:-1 tvg-id="12" tvg-name="ESPN2" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", ESPN2 | EC
+https://655tukzzkj.azcdn728.net:8443/hls/og9w80yjcw67wox.m3u8?s=O5v9qP3sphCbNS0RDbIHKA&e=1626221399
 
 #EXTINF:-1 tvg-id="16" tvg-name="CN" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", CN | EC
 https://655tukzzkj.azcdn728.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=XirlKwpQ89ZNf6nenytdXQ&e=1626220225
